@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-24T08:17:28.653996+00:00",
+  "slug": "twocean-strategy",
+  "type": "service",
+  "package": "twocean.management.twoceanstrategy",
+  "prefix": "HRPIK",
+  "app_name": "TWOcean Strategy",
+  "task_gid": "1217580748339441",
+  "task_name": "GB GW4 C1513",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217580748339441",
+  "domain": "https://twocean.surf",
+  "company": "TW OCEAN LTD",
+  "repo_url": "https://github.com/ArtCode379/twocean-strategy",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
